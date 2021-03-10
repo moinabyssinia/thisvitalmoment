@@ -10,6 +10,11 @@
 body {
   font-family: "Cairo";
 }
+.container {
+  margin: 0 auto 0 auto !important;
+  display: flex;
+  /* width: 1000px !important; */
+}
 
 /* Navbar  */
 .logo {
@@ -46,5 +51,6 @@ nav ul li {
 }
 
 .navbar-nav > li > a:hover {
-  border-top: 0.1875rem solid var(--primary-orange) ;
+  border-top: 0.1875rem solid var(--primary-orange);
 }
+
