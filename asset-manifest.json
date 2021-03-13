@@ -1,27 +1,28 @@
 {
   "files": {
-    "main.css": "/thisvitalmoment/static/css/main.a7930e01.chunk.css",
-    "main.js": "/thisvitalmoment/static/js/main.7b95ad20.chunk.js",
-    "main.js.map": "/thisvitalmoment/static/js/main.7b95ad20.chunk.js.map",
+    "main.css": "/thisvitalmoment/static/css/main.bf783c5b.chunk.css",
+    "main.js": "/thisvitalmoment/static/js/main.02f5308c.chunk.js",
+    "main.js.map": "/thisvitalmoment/static/js/main.02f5308c.chunk.js.map",
     "runtime-main.js": "/thisvitalmoment/static/js/runtime-main.e3938c5f.js",
     "runtime-main.js.map": "/thisvitalmoment/static/js/runtime-main.e3938c5f.js.map",
     "static/css/2.fabbef47.chunk.css": "/thisvitalmoment/static/css/2.fabbef47.chunk.css",
-    "static/js/2.0b129f4b.chunk.js": "/thisvitalmoment/static/js/2.0b129f4b.chunk.js",
-    "static/js/2.0b129f4b.chunk.js.map": "/thisvitalmoment/static/js/2.0b129f4b.chunk.js.map",
+    "static/js/2.a6fc9c62.chunk.js": "/thisvitalmoment/static/js/2.a6fc9c62.chunk.js",
+    "static/js/2.a6fc9c62.chunk.js.map": "/thisvitalmoment/static/js/2.a6fc9c62.chunk.js.map",
     "static/js/3.eb19f438.chunk.js": "/thisvitalmoment/static/js/3.eb19f438.chunk.js",
     "static/js/3.eb19f438.chunk.js.map": "/thisvitalmoment/static/js/3.eb19f438.chunk.js.map",
     "index.html": "/thisvitalmoment/index.html",
     "static/css/2.fabbef47.chunk.css.map": "/thisvitalmoment/static/css/2.fabbef47.chunk.css.map",
-    "static/css/main.a7930e01.chunk.css.map": "/thisvitalmoment/static/css/main.a7930e01.chunk.css.map",
-    "static/js/2.0b129f4b.chunk.js.LICENSE.txt": "/thisvitalmoment/static/js/2.0b129f4b.chunk.js.LICENSE.txt",
+    "static/css/main.bf783c5b.chunk.css.map": "/thisvitalmoment/static/css/main.bf783c5b.chunk.css.map",
+    "static/js/2.a6fc9c62.chunk.js.LICENSE.txt": "/thisvitalmoment/static/js/2.a6fc9c62.chunk.js.LICENSE.txt",
     "static/media/TVMLogo.e16178f4.jpg": "/thisvitalmoment/static/media/TVMLogo.e16178f4.jpg",
-    "static/media/App.css": "/thisvitalmoment/static/media/stluciamedium.cc37cd77.jpg"
+    "static/media/App.css": "/thisvitalmoment/static/media/stluciamedium.cc37cd77.jpg",
+    "static/media/tvmimage.d321556a.jpg": "/thisvitalmoment/static/media/tvmimage.d321556a.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.e3938c5f.js",
     "static/css/2.fabbef47.chunk.css",
-    "static/js/2.0b129f4b.chunk.js",
-    "static/css/main.a7930e01.chunk.css",
-    "static/js/main.7b95ad20.chunk.js"
+    "static/js/2.a6fc9c62.chunk.js",
+    "static/css/main.bf783c5b.chunk.css",
+    "static/js/main.02f5308c.chunk.js"
   ]
 }
