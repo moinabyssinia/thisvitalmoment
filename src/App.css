@@ -19,6 +19,11 @@ body {
 }
 
 /* Navbar  */
+
+nav {
+  z-index: 2
+}
+
 .logo {
   width: 4rem;
 }
@@ -49,6 +54,13 @@ nav ul li {
   text-transform: uppercase;
 }
 
+
+@media(max-width: 786px) {
+  .navbar-brand  {
+    width: 7rem;
+  }
+}
+
 .navbar-nav > li > a.active,  .navbar-nav  >  li > a.active:focus {
   border-top: 0.1875rem solid var(--primary-orange) ;
 }
@@ -68,15 +80,23 @@ nav ul li {
 }
 .main-info {
   display: flex;
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
   flex-direction: column;
   justify-content: center;
   align-items: center;
   text-align: center;
   font-family: "Cairo";
+  z-index: 1;
 }
 
 .main-info h1 {
-  color: var(--primary-orange);
+  color: var(--primary-white);
+  font-weight: 800;
+  font-size: 3rem;
 }
 
 /* ************************Typed text*************************** */
@@ -85,7 +105,43 @@ nav ul li {
   color: var(--primary-white);
 }
 
+
+@media(max-width: 786px) {
+  .main-info h1 {
+    font-size: 1.7rem !important;
+  }
+  .typed-text {
+    font-size: 1.3rem !important;
+  }
+}
+
 /* ************************Header Main Offer Button*************************** */
 .btn-main-offer {
-  border: 1px solid var(--primary-red)
+  border: 1px solid var(--primary-red);
+  text-transform: uppercase;
+  border-radius: 0;
+  padding: 0.635rem 0.75rem 0.75rem 0.75rem;
+  color: var(--primary-white);
+  margin: 2rem;
+}
+
+.btn-main-offer:hover {
+  text-decoration: none;
+  background-color: var(--primary-hover-red);
+  color: var(--primary-white);
+  transition: .2s ease-in-out;
+}
+
+/* particles JS */
+.tsparticles-canvas-el {
+  position: absolute;
+  height: 100vh;
+  width: 100vw;
+  z-index: 1;
+}
+
+@media(max-width: 768px) {
+  .particles-canvas {
+    display: none;
+  }
 }
