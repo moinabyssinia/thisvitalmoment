@@ -145,3 +145,17 @@ nav ul li {
     display: none;
   }
 }
+/* **************AboutMe page************** */
+
+.profile-pic {
+  width: 500px !important;
+}
+
+@media(max-width: 768px) {
+  .profile-pic {
+    width: 345px !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+    margin-bottom: 20px !important;
+  }
+}
