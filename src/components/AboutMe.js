@@ -1,5 +1,5 @@
 import React from "react";
-import author from "../tvmimage.jpg";
+import author from "../Pastor B'09.jpg";
 
 const AboutMe = () => {
     return (
@@ -7,11 +7,13 @@ const AboutMe = () => {
             <div className = "row">
                 
                 <div className = "col-lg-6 col-xm-12">
-                    <img className = "profile-pic" src = {author} alt = "Pastor Baxter"/>
+                    <div className = "photo-wrap mb-5">
+                        <img className = "profile-pic" src = {author} alt = "Pastor Baxter"/>
+                    </div>
                 </div>
 
                 <div className = "col-lg-6 col-xm-12">
-                    <h1>About Me</h1>
+                    <h1 className = "about-heading">About Me</h1>
                     <p>
                     Because you cared for me and my ministry, “This Vital Moment” will be One year old in January 2021! This
                     past year 2020 AD, a year of great trials and uncertainty, became a year of hope and salvation for many
