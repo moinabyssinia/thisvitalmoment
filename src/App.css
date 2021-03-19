@@ -244,7 +244,11 @@ p {
 }
 
 .merch-item {
-  width: 20rem;
+  display: block;
+  max-height: 159px;
+  height: auto;
+  width: auto;
+  height: auto;
   padding: 0.3rem;
   border: 1px solid var(--primary-orange);
 }
@@ -255,3 +259,22 @@ p {
   align-items: center;
 }
 
+.merch-photo-wrap {
+  display: flex;
+  width: 250px;
+  margin:0 auto !important;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  top: 15%;
+}
+
+.merch .box {
+  height: 20rem;
+  width: 18rem;
+  border-bottom: 0.3125rem solid var(--primary-orange);
+  padding: 0.625rem;
+  margin-bottom: 0.875rem;
+  background: var(--primary-white);
+  align-items: center;
+}
