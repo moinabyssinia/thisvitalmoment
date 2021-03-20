@@ -6,7 +6,7 @@ import cds from "../cds.jpg";
 function Merchandise() {
     return (
         <div className = "merch">
-            <div className = "d.flex justify-content-center my-5">
+            <div className = "d.flex justify-content-center py-5">
                 <h1>Merchandise</h1>
             </div>
 
