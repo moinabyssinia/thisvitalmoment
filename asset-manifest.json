@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/thisvitalmoment/static/css/main.6b9e6acd.chunk.css",
-    "main.js": "/thisvitalmoment/static/js/main.6fb844e1.chunk.js",
-    "main.js.map": "/thisvitalmoment/static/js/main.6fb844e1.chunk.js.map",
+    "main.css": "/thisvitalmoment/static/css/main.40cfa225.chunk.css",
+    "main.js": "/thisvitalmoment/static/js/main.d795a66c.chunk.js",
+    "main.js.map": "/thisvitalmoment/static/js/main.d795a66c.chunk.js.map",
     "runtime-main.js": "/thisvitalmoment/static/js/runtime-main.71dd743c.js",
     "runtime-main.js.map": "/thisvitalmoment/static/js/runtime-main.71dd743c.js.map",
     "static/css/2.fabbef47.chunk.css": "/thisvitalmoment/static/css/2.fabbef47.chunk.css",
-    "static/js/2.c33bd206.chunk.js": "/thisvitalmoment/static/js/2.c33bd206.chunk.js",
-    "static/js/2.c33bd206.chunk.js.map": "/thisvitalmoment/static/js/2.c33bd206.chunk.js.map",
+    "static/js/2.5e99c94e.chunk.js": "/thisvitalmoment/static/js/2.5e99c94e.chunk.js",
+    "static/js/2.5e99c94e.chunk.js.map": "/thisvitalmoment/static/js/2.5e99c94e.chunk.js.map",
     "static/js/3.f126d87a.chunk.js": "/thisvitalmoment/static/js/3.f126d87a.chunk.js",
     "static/js/3.f126d87a.chunk.js.map": "/thisvitalmoment/static/js/3.f126d87a.chunk.js.map",
     "index.html": "/thisvitalmoment/index.html",
     "static/css/2.fabbef47.chunk.css.map": "/thisvitalmoment/static/css/2.fabbef47.chunk.css.map",
-    "static/css/main.6b9e6acd.chunk.css.map": "/thisvitalmoment/static/css/main.6b9e6acd.chunk.css.map",
-    "static/js/2.c33bd206.chunk.js.LICENSE.txt": "/thisvitalmoment/static/js/2.c33bd206.chunk.js.LICENSE.txt",
+    "static/css/main.40cfa225.chunk.css.map": "/thisvitalmoment/static/css/main.40cfa225.chunk.css.map",
+    "static/js/2.5e99c94e.chunk.js.LICENSE.txt": "/thisvitalmoment/static/js/2.5e99c94e.chunk.js.LICENSE.txt",
     "static/media/Pastor B'09.147ba86e.jpg": "/thisvitalmoment/static/media/Pastor B'09.147ba86e.jpg",
     "static/media/TVMLogo.e16178f4.jpg": "/thisvitalmoment/static/media/TVMLogo.e16178f4.jpg",
     "static/media/art.d039086c.jpg": "/thisvitalmoment/static/media/art.d039086c.jpg",
@@ -24,8 +24,8 @@
   "entrypoints": [
     "static/js/runtime-main.71dd743c.js",
     "static/css/2.fabbef47.chunk.css",
-    "static/js/2.c33bd206.chunk.js",
-    "static/css/main.6b9e6acd.chunk.css",
-    "static/js/main.6fb844e1.chunk.js"
+    "static/js/2.5e99c94e.chunk.js",
+    "static/css/main.40cfa225.chunk.css",
+    "static/js/main.d795a66c.chunk.js"
   ]
 }
