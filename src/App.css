@@ -107,7 +107,7 @@ nav ul li {
 }
 
 
-@media(max-width: 786px) {
+@media(max-width: 768px) {
   .main-info h1 {
     font-size: 1.7rem !important;
   }
@@ -278,6 +278,12 @@ p {
   align-items: center;
 }
 
+@media(max-width: 768px) {
+  .merch .box {
+    margin: 1rem auto;
+  }
+}
+
 /* ****************Videos******************** */
 .vid {
   text-align: center;
@@ -311,4 +317,100 @@ p {
   height: 15rem;
   width: 25rem;
   align-items: center;
+}
+
+@media(max-width: 768px) {
+  .vid .box {
+    width: 20rem;
+    margin: 0 auto;
+  }
+}
+
+/* ****************Contacts******************** */
+.contacts {
+  background: rgb(44, 38, 59);
+  padding: 1rem 0 3rem 0;
+}
+
+.contacts h1 {
+  color: var(--primary-orange);
+  padding: 0 0;
+
+}
+.contacts p {
+  text-align: center;
+  font-size: 1.2rem;
+}
+
+/* ****************Inputs******************** */
+.contacts input, .contacts textarea {
+  width: 100%;
+  box-sizing: border-box;
+  /* background: none; */
+  border: 0;
+  border-bottom: 0.125rem solid rgb(39, 38, 44);
+  border-radius: 0.25rem;
+  outline: 0 !important;
+  box-shadow: none !important;
+  top: 0;
+  margin-bottom: 0.75rem;
+}
+
+.div-box {
+  width: 60rem !important;
+}
+
+@media(max-width: 768px) {
+  .contacts {
+    overflow-x: hidden;
+  }
+  .div-box {
+    width: 10rem !important;
+  }
+  .contacts input, .contacts textarea {
+    width: 90%;
+  }
+}
+
+.contacts .container {
+  padding: 0 1rem;
+
+}
+
+.contacts input:focus, .contacts textarea:focus {
+  /* background: transparent; */
+  color: rgb(9, 6, 22);
+  /* border-bottom: 0.125rem solid rgb(39, 38, 44); */
+}
+
+.contacts textarea {
+  height: 10rem !important;
+}
+
+.contact-btn {
+  margin: 0.25rem 0 0 0;
+  width: 100%;
+  height: 2.5rem;
+  font-weight: bold;
+}
+
+.contact-btn:hover {
+  background: rgb(60, 48, 165);
+  color: white;
+}
+
+@media(max-width: 768px) {
+  .contacts .div-box {
+    width: 25rem !important;
+    margin: 0 auto;
+  }
+  .contacts input, textarea {
+    margin: 0.8rem auto !important;
+  }
+
+  .contact-btn:hover {
+    background: rgb(60, 48, 165);
+    color: white;
+  }
+
 }
