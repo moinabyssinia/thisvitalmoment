@@ -9,7 +9,7 @@ function Videos() {
 
             <div className = "container vid-wrapper">
                 <div className = "row">
-                    <div className = "col-lg-4 col-xm-12">
+                    <div className = "vid-holder col-lg-4 col-xm-12">
                     
                         <div className = "box">
                             <div className = "vid-photo-wrap mb">
@@ -20,7 +20,7 @@ function Videos() {
 
                     </div>
 
-                    <div className = "col-lg-4 col-xm-12">
+                    <div className = "vid-holder col-lg-4 col-xm-12">
                         <div className = "box">
                             <div className = "vid-photo-wrap mb">
                                 <iframe className = "vid-item" width="1280" height="720" src="https://www.youtube.com/embed/2mgUPt2KI08" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -30,7 +30,7 @@ function Videos() {
 
                     </div>
 
-                    <div className = "col-lg-4 col-xm-12">
+                    <div className = "vid-holder col-lg-4 col-xm-12">
 
                         <div className = "box">
                             <div className = "vid-photo-wrap mb">

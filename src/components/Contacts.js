@@ -14,7 +14,6 @@ const Contacts = () => {
                         { /* Name and Contact */}
                         <input
                             type = "text" 
-                            id = "name"
                             className = "form-control"
                             placeholder = "Name"
                             name = "name"           
@@ -22,7 +21,6 @@ const Contacts = () => {
                         { /* phone input */}
                         <input
                             type = "text" 
-                            id = "phone"
                             className = "form-control"
                             placeholder = "Phone Number"
                             phone = "phone"           
@@ -31,7 +29,6 @@ const Contacts = () => {
                         { /* email input */}
                         <input
                             type = "email" 
-                            id = "email"
                             className = "form-control"
                             placeholder = "Email"
                             email = "email"           
@@ -40,7 +37,6 @@ const Contacts = () => {
                         { /* subject input */}
                         <input
                             type = "text" 
-                            id = "subject"
                             className = "form-control"
                             placeholder = "Subject"
                             subject = "subject"           
@@ -51,7 +47,6 @@ const Contacts = () => {
                             { /* description input */}
                             <textarea 
                                 type = "text"
-                                id = "description"
                                 className = "form-control"
                                 placeholder = "Comment"
                                 email = "email"

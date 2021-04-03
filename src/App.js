@@ -8,6 +8,7 @@ import Services from "./components/Services";
 import Merchandise from "./components/Merchandise";
 import Videos from "./components/Videos";
 import Contacts from "./components/Contacts";
+// use npm run deploy to publish
 
 function App() {
   return (
